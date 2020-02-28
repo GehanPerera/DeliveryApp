@@ -7,7 +7,7 @@ Restore the database backup (pinto.sql) on MySQL server.
 
 Start Apache Server.
 
-Use the database connection parameters from: source/dbconnect.php 
+Update the database connection parameters in the file: source/dbconnect.php 
 
 Navigate to Home page: index.php
 
