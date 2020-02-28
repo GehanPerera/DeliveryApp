@@ -1,0 +1,91 @@
+body{
+	background-color:#ffc0cb;
+	margin: 150px 0px 0px 0px; 
+}
+
+div#topdiv {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	background-color:#ffc0cb;
+}
+
+#topdiv ul{
+	margin: 0px;
+	padding:0px;
+	list-style: none;
+	
+}
+
+#topdiv ul li{
+	float: left;
+	width: 20%;
+	height:40px;
+	background-color: Red;
+	opacity: .8;
+	line-height: 40px;
+	text-align: center;
+	font-size: 20px;
+}
+
+#topdiv ul li ul li{
+	width: 100%;
+}
+
+#topdiv ul#Login li{
+	float: right;
+	width: 150px;
+	height:20px;
+	background-color: #ffc0cb;
+	opacity: .8;
+	line-height: 20px;
+	text-align: center;
+	font-size: 14px;
+}
+
+#topdiv ul li a{
+	text-decoration: none;
+	color: white;
+	display: block;
+}
+
+#topdiv ul#Login li a{
+	text-decoration: underline;
+	color: black;
+	display: block;
+}
+
+#topdiv ul li a:hover {
+	background-color: green;
+}
+
+#topdiv ul li ul li {
+	display: none;
+}
+
+#topdiv ul li:hover ul li {
+	display: block;
+}
+
+#topdiv .highlight {
+	background-color: orange;
+	font-weight: bold;
+}	
+
+#topdiv ul#Register li{
+	float: right;
+	width: 300px;
+	height:20px;
+	background-color: #ffc0cb;
+	opacity: .8;
+	line-height: 20px;
+	text-align: center;
+	font-size: 14px;
+}
+
+#topdiv ul#Register li a{
+	text-decoration: underline;
+	color: black;
+	display: block;
+}
