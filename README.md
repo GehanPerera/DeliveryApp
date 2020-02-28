@@ -1,2 +1,0 @@
-# DeliveryApp
-This is the web application I developed, as part of my BCS PGD project, for a food delivery company to facilitate online customer orders as well as the effective communication between its staff &amp; the listed vendors (restaurants).  The system was developed using technologies such as PHP &amp; MySQL.  Capabilities such as login facility for multiple user types, shopping cart, order tracking, file uploads &amp; report generation have been implemented.   
